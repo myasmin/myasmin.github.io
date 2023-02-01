@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @myasmin
 - 👀 I’m interested in Statistical Analysis and Predictive Modelling. I work with Data Modelling, Data Visualization, Statistical Analysis and Statistical / Machine Learning Model development.
-- 🌱 I’m fluent with Python and R, intermediate SQL, and Tableau / PowerBI for my Analysis. 
+- 🌱 I’m fluent with Python and R, intermediate SQL, and Tableau / PowerBI. 
 - 💞️ I’m looking to collaborate on interesting projects. Some of the Datasets make sense and some of them don't. So, I think it's fun to try to find out which is the best way to work for future prediction.
 - ❤️ I love reading books, photography and spending time with my two kids! 
 - 📫 How to reach me- https://www.linkedin.com/in/myasmin/
